@@ -1,59 +1,25 @@
-<h1 align="center">Hola! Soy Mari Paez! 👁️</h1>
+# Hola! Soy Mari Paez
 
-<h4 align="center">
-  <b><a href=>Data Analyst</a></b>
+## ¿Quién soy?
 
+👋 ¡Hola! Soy María de los Ángeles Páez, analista de datos en formación con un sólido trasfondo en gestión pública y contable. Mi carrera comenzó en el ámbito legal ⚖️, donde trabajé en la Municipalidad de Rufino, gestionando normativa, habilitaciones y procesos administrativos. Con experiencia en redacción de contratos, licitaciones y proyectos de ordenanzas, he desarrollado habilidades para el análisis crítico y la gestión de datos complejos
 
-## Introduction
+**Durante años, mi carrera como abogada ⚖️ me enseñó a encontrar patrones, resolver problemas complejos y tomar decisiones estratégicas. Sin embargo, había algo que faltaba: la pasión ❤️. Fue cuando me sumergí en el mundo de los datos 📊 que descubrí lo que realmente me motiva. Lo que comenzó como un experimento 🧠, se transformó rápidamente en una fascinación por cómo los datos pueden revelar historias ocultas y soluciones innovadoras 💡. Hoy, aplico esa capacidad de análisis crítico con herramientas de ciencia de datos, combinando mis habilidades legales con una nueva perspectiva tecnológica. Mi objetivo: transformar datos en decisiones poderosas 🚀.*
 
-Soy María de los Ángeles Páez, analista de datos en formación con un sólido trasfondo en gestión pública y contable. 
- 
+## ¿Qué hago?
+🔍 Actualmente, me dedico a desarrollar soluciones basadas en datos 📊, enfocándome en el análisis y la visualización de información para apoyar la toma de decisiones estratégicas. 
+Próxima a graduarme en el bootcamp de Data Analytics en Henry 🎓, aplico herramientas como Google Sheets, SQL, Power BI y Python para transformar grandes volúmenes de datos en información clara y procesable.
 
-## Embed Real-time Widget in Repo's / Personal README.md within 30s!
+## ¿Adónde me dirijo?
+🚀 Busco nuevas oportunidades en el campo del análisis de datos, especialmente en entornos dinámicos que valoren el impacto del análisis en la toma de decisiones estratégicas. Mi objetivo es integrar mis habilidades analíticas y experiencia en gestión pública para contribuir al éxito de una organización.
 
-For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
+## ¿Qué tecnologías uso? 💻
+ Mis principales herramientas incluyen: 
+ - SQL
+ - Power BI
+ - Python
+ - Google Sheets.
+ - También tengo experiencia en sistemas contables como TaxSoft y SIAP y sistema de administración para Municipios (Grupo Guadalupe) 
+ - Manejo de bases de datos en SQL y CSV.
 
-
-| Repository Activity Trends | Collaborative Productivity - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto"/>|
-
-| Star Geographic Distribution | Star History |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Company Affiliation | Lines of Code Changes |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Pull Request Size | Pull Request Lifecycle |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Repository Annual Ranking | Find More |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">Visit our website</a >|
-
-## Contact us
-
-<a href="https://twitter.com/OSSInsight" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-
-<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-
-<a href="mailto:ossinsight@pingcap.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-
-## Sponsors
-<a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&utm_medium=referral">
-<img src="/web/static/img/tidb-cloud-logo-w.png" height=50 />
-</a>
+**📞 Estoy comprometida con el aprendizaje continuo 📚 y con aplicar mi experiencia en proyectos que conviertan los datos en decisiones estratégicas. Si buscas a alguien con una visión analítica y habilidades en gestión pública, estaré encantada de conversar sobre cómo puedo aportar al crecimiento de tu organización.*
